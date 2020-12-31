@@ -1,3 +1,4 @@
 GIT is the most widely used open-source VCS.
 
-Companies and programmers usually use GIT to collaborate on developing software and applications.
+
+The working directory is where you add, delete, and edit the files.
